@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center"> Welcome to <span style="color:#00bcd4;">Ninja Team Delta01</span></h1>
 
 <p align="center"><b>A training repository for Git/GitHub basics for Ninja Deliveries.</b></p>
@@ -22,8 +21,4 @@ This repository is designed to help team members learn and practice <b>Git and G
 
 
 ## Updates...
-=======
-# ninja-team-delta01
-#vedika
-I'm Vedika Dhiman. I love pizza and reading books.
->>>>>>> 03ff9eccd254524b4160a637b5841a4bc02e08af
+
