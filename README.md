@@ -20,5 +20,8 @@ This repository is designed to help team members learn and practice <b>Git and G
 - Resolving merge conflicts  
 
 
-## Updates...
+## Updates..
+
+Hello ! <br> <b>I am Ritik pursuing MCA, and currently in learning phase.</b>
+ 
 
