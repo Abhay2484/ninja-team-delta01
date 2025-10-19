@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to <span style="color:#00bcd4;">Ninja Team Delta01</span></h1>
+<h1 align="center"> Welcome to <span style="color:#00bcd4;">Ninja Team Delta</span></h1>
 
 <p align="center"><b>A training repository for Git/GitHub basics for Ninja Deliveries.</b></p>
 
