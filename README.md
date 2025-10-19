@@ -23,8 +23,8 @@ This repository is designed to help team members learn and practice <b>Git and G
 ## Updates...
 
 hello! <br> I am Abhay madhuwan 
-Hello ! <br> <b>I am Ritik pursuing MCA, and currently in learning phase.</b>
-Hello, My name is Vedika.
+Hello ! <br> <b>I am Ritik pursuing MCA, and currently in learning phase.</b><br>
+Hello, My name is Vedika.<br>
 This is me Sakshi Pathania.
 
 
