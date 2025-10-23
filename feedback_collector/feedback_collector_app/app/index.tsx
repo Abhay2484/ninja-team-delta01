@@ -3,7 +3,7 @@ import { View, Alert, Text } from 'react-native';
 import FeedbackInput from './feedback_input';
 
 // import FeedbackButton from './button';
-//import { feedbackStyles } from './styles/feedbackStyles';
+import { feedbackStyles } from './styles/feedbackStyles';
 
 export default function App() {
   const [feedback, setFeedback] = useState('');
@@ -19,10 +19,9 @@ export default function App() {
   };
 
   return (
-  //<View style={feedbackStyles.container}></View>
-    <View>
-    {/* <Text style={feedbackStyles.heading}>💬 Feedback Collector</Text>
-    <Text style={feedbackStyles.teamName}>By Team Delta 💙</Text> */}
+  <View style={feedbackStyles.container}>
+    <Text style={feedbackStyles.heading}>💬 Feedback Collector</Text>
+    <Text style={feedbackStyles.teamName}>By Team Delta 💙</Text> 
       <FeedbackInput
         feedback={feedback}
         onChangeFeedback={setFeedback}
