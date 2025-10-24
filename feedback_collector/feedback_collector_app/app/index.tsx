@@ -19,10 +19,9 @@ export default function App() {
   };
 
   return (
-  //<View style={feedbackStyles.container}></View>
-    <View>
-    {/* <Text style={feedbackStyles.heading}>💬 Feedback Collector</Text>
-    <Text style={feedbackStyles.teamName}>By Team Delta 💙</Text> */}
+  <View >
+    <Text>💬 Feedback Collector</Text>
+    <Text >By Team Delta 💙</Text> 
       <FeedbackInput
         feedback={feedback}
         onChangeFeedback={setFeedback}
